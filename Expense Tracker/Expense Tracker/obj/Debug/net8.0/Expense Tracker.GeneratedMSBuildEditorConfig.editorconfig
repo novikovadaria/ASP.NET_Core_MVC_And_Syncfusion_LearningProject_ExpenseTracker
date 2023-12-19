@@ -26,8 +26,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\79384\Desktop\Expense Tracker with Asp.Net Core MVC\Expense Tracker\Expense Tracker
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/79384/Desktop/Expense Tracker with Asp.Net Core MVC/Expense Tracker/Expense Tracker/Views/Category/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+[C:/Users/79384/Desktop/Expense Tracker with Asp.Net Core MVC/Expense Tracker/Expense Tracker/Views/Category/AddOrEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkT3JFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/79384/Desktop/Expense Tracker with Asp.Net Core MVC/Expense Tracker/Expense Tracker/Views/Category/Delete.cshtml]
@@ -36,10 +36,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/79384/Desktop/Expense Tracker with Asp.Net Core MVC/Expense Tracker/Expense Tracker/Views/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/79384/Desktop/Expense Tracker with Asp.Net Core MVC/Expense Tracker/Expense Tracker/Views/Category/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/79384/Desktop/Expense Tracker with Asp.Net Core MVC/Expense Tracker/Expense Tracker/Views/Category/Index.cshtml]

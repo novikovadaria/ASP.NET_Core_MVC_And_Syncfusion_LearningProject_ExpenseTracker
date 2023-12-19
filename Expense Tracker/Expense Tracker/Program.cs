@@ -1,6 +1,8 @@
 using Expense_Tracker.Models;
 using Microsoft.EntityFrameworkCore;
 
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1NAaF5cWWJCf1FpR2VGfV5yd0VAallWTnVZUiweQnxTdEZiW35XcHJQQWNaUENyWQ==");
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
