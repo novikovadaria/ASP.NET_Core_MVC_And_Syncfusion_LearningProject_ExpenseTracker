@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Reflection.Metadata;
 
 namespace Expense_Tracker.Models
 {
@@ -16,6 +17,13 @@ namespace Expense_Tracker.Models
 
         [Column(TypeName = "nvarchar(10)")]
         public string Type { get; set; } = "Expense";
-        
+
+        [NotMapped]
+        public string? TitleWithIcon {
+            get
+            {
+                return this.Icon + " " +  this.Title; 
+            }
+        }
     }
 }
