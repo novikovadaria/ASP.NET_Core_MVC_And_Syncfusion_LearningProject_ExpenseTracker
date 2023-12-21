@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c7CW2rTfjHNTla09AjaqCYJ/gf0dRAH9uzQZGsYA3z4=",
+  "Hash": "LSonmSi3BTZYkKdaIha/ucENJQgsRWYDUhtEekhdbOc=",
   "Source": "Expense Tracker",
   "BasePath": "_content/Expense Tracker",
   "Mode": "Default",
@@ -1288,6 +1288,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\79384\\Desktop\\Expense Tracker with Asp.Net Core MVC\\Expense Tracker\\Expense Tracker\\wwwroot\\profile.jpg.jpg",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\79384\\Desktop\\Expense Tracker with Asp.Net Core MVC\\Expense Tracker\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "profile.jpg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile.jpg.jpg"
     }
   ]
 }

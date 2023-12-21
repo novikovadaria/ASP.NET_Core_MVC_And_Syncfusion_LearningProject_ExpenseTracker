@@ -257,6 +257,10 @@
       "PackagePath": "staticwebassets\\logo.png"
     },
     {
+      "Id": "C:\\Users\\79384\\Desktop\\Expense Tracker with Asp.Net Core MVC\\Expense Tracker\\Expense Tracker\\wwwroot\\profile.jpg.jpg",
+      "PackagePath": "staticwebassets\\profile.jpg.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
