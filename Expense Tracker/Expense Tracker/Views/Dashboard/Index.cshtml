@@ -45,7 +45,6 @@
     </div>
 </div>
 
-
 @*Doughnut and Spline Chart*@
 <div class="row mb-4">
     <div class="col-md-4">
@@ -103,8 +102,7 @@
     </div>
 </div>
 
-
-@* Recent Transactions And More *@
+@*Recent Transactions and More*@
 <div class="row">
     <div class="col-md-6">
         <div class="widget">
@@ -113,12 +111,11 @@
             </div>
             <div class="px-4 pb-4">
                 <ejs-grid id="recent-transactions"
-                    dataSource="@ViewBag.RecentTransactions">
+                          dataSource="@ViewBag.RecentTransactions" gridLines="None">
                     <e-grid-columns>
                         <e-grid-column headerText="Category" field="CategoryTitleWithIcon"></e-grid-column>
-                        <e-grid-column headerText="Date" field="Date" width="110px"
-                                       type="date" format="dd-MMM-yy" textAlign="Left"></e-grid-column>
-                        <e-grid-column headerText="Amount" field="FormattedAmount" textAlign="Right" width="110px"></e-grid-column>
+                        <e-grid-column headerText="Date" field="Date" type="date" format="MMM-dd-yy"></e-grid-column>
+                        <e-grid-column headerText="Amount" field="FormattedAmount" textAlign="Right"></e-grid-column>
                     </e-grid-columns>
                 </ejs-grid>
             </div>
@@ -127,7 +124,7 @@
     <div class="col-md-6">
         <div class="widget h-100">
             <div class="d-flex justify-content-center align-items-center h-100">
-                <span><i class="fa-solid fa-plus fa-2xl">Widget</i></span>
+                <span><i class="fa-solid fa-plus fa-2xl"></i> Widget</span>
             </div>
         </div>
     </div>
