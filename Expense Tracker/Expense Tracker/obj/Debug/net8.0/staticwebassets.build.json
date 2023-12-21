@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LSonmSi3BTZYkKdaIha/ucENJQgsRWYDUhtEekhdbOc=",
+  "Hash": "jTwGX7eLzAOtwSRvr9TbJx8Kke7JGSNMUk4AT4EL6bQ=",
   "Source": "Expense Tracker",
   "BasePath": "_content/Expense Tracker",
   "Mode": "Default",
@@ -1290,12 +1290,12 @@
       "OriginalItemSpec": "wwwroot\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\79384\\Desktop\\Expense Tracker with Asp.Net Core MVC\\Expense Tracker\\Expense Tracker\\wwwroot\\profile.jpg.jpg",
+      "Identity": "C:\\Users\\79384\\Desktop\\Expense Tracker with Asp.Net Core MVC\\Expense Tracker\\Expense Tracker\\wwwroot\\profile.jpg",
       "SourceId": "Expense Tracker",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\79384\\Desktop\\Expense Tracker with Asp.Net Core MVC\\Expense Tracker\\Expense Tracker\\wwwroot\\",
       "BasePath": "_content/Expense Tracker",
-      "RelativePath": "profile.jpg.jpg",
+      "RelativePath": "profile.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,7 +1306,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\profile.jpg.jpg"
+      "OriginalItemSpec": "wwwroot\\profile.jpg"
     }
   ]
 }
